@@ -13,7 +13,7 @@ Visiting a doctor requires reserving an appointment, waiting for your turn and t
 - View upcoming/past appointments.
 - Managing appointments by canceling or rescheduling them.
 
-## App screenshots
+
 
 
 
